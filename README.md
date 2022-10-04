@@ -24,9 +24,8 @@ Vagrant.configure("2") do |config|
     ansible.playbook = "provision.yaml"
   end
 end
-
-[Download Vagrantfile](https://raw.githubusercontent.com/yjun-001/vagrant_file_ansible_provision_vbox_vm/main/Vagrantfile)
 ```
+[Download Vagrantfile](https://raw.githubusercontent.com/yjun-001/vagrant_file_ansible_provision_vbox_vm/main/Vagrantfile)
 
 provisioning including:
   - install ansible

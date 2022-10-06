@@ -6,7 +6,7 @@ This repo is to create Open PBS VM node by using Vagrant & Ansible provision
 Reference this Repository to setup [local vagrant VM development environment](https://github.com/yjun-001/vagrant_vm_windows10)
 
 ### Vagrantfile to create VM ndoe:
-```
+```ruby
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
